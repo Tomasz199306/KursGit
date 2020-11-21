@@ -1,1 +1,4 @@
 gamon leśnu
+
+
+dodanie nowej eksperymentalnej funkcjonalnosci\
